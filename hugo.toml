@@ -73,7 +73,7 @@ enableRobotsTXT = true
   # If you want to display posts on the homepage, the options are
   # "popular" (order posts by weight), "recent" (order posts by date)
   # or "" (do not display, default option)
-  showPostsOnHomePage = ""
+  showPostsOnHomePage = "recent"
 
   # Footer text
-  footer = "The Marauders"
+  footer = "Bloglo"
