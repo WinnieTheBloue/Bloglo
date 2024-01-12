@@ -2,7 +2,8 @@
 title: "Api De Transitions"
 date: 2024-01-12
 description: "Dans ce post passionnant, nous avons exploré en profondeur l'API de Transitions de Vue, en commençant par les bases et en mettant en lumière ses avantages. Le tutoriel pratique nous a permis de créer des animations UI simples et avancées tout en mettant l'accent sur l'importance de la gestion des performances dans le développement web. Vous découvrirez également des ressources supplémentaires et des références pour approfondir vos connaissances en animations UI avec Vue.js."
-image: "/path/to/image.png"
+image: "static/img/code.jpeg"
+showTableOfContents: true
 type: "post"
 tags: ["Vue.js",
     "UI Animations",
