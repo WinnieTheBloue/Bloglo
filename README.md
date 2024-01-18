@@ -8,9 +8,9 @@ I am a web application development enthusiast and media engineering student. Blo
 
 ## Navigation 🌐
 
-- [Posts](https://winniethebloue.github.io/bloglo/posts/): Explore the articles I've written, where I delve into captivating subjects related to technology, development, and more.
+- [Posts](https://winniethebloue.github.io/bloglo/posts/) : Explore the articles I've written, where I delve into captivating subjects related to technology, development, and more.
 
-- [About](https://winniethebloue.github.io/bloglo/about/): Learn more about me, my professional journey, my projects, and my life philosophy.
+- [About](https://winniethebloue.github.io/bloglo/about/) : Learn more about me, my professional journey, my projects, and my life philosophy.
 
 ## Follow Me 🚶‍♂️
 
