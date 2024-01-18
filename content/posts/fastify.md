@@ -1,8 +1,7 @@
 ---
 title: "🚀 Fastify : Le nouveau challenger de Express dans le monde Node.js"
-date: 2024-01-12
+date: 2024-01-16
 description: "Dans ce post passionnant, nous explorons Fastify, un framework web Node.js conçu pour la rapidité et l'efficacité, et le comparons avec Express. Découvrez ses caractéristiques clés, ses avantages en termes de performance, et son potentiel en tant que choix privilégié pour les applications modernes."
-image: "static/img/code.jpeg"
 showTableOfContents: true
 type: "post"
 tags: ["Node.js", "Fastify", "Express", "Performance Web", "Développement Backend", "API REST", "Framework Web"]

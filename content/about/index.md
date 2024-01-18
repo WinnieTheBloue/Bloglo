@@ -1,6 +1,7 @@
 ---
 layout: page
 multilingual: false
+showTableOfContents: true
 ---
 
 # À propos de moi
@@ -40,5 +41,12 @@ Gestion des plateformes de médias sociaux et engagement avec la communauté en 
 ### Depuis 2018 : Développeur web et créateur d'applications chez OuverTür
 Développement et maintenance du site web, création d'une application de gestion.
 
+## 🌸 Mon Ikigai
+Pour aligner ma vie professionnelle et personnelle avec ce qui me rend vraiment heureux et satisfait, j'ai exploré mon Ikigai, qui est l'intersection entre ce que j'aime, ce en quoi je suis bon, ce pour quoi je peux être payé et ce dont le monde a besoin.
+
+![Mon Ikigai](../../ikigai.png "Mon Ikigai")
+
+En intégrant ces éléments, je m'efforce de contribuer de manière significative à la société tout en poursuivant ma passion et en bâtissant une carrière enrichissante.
+
 ## 📫 Contact
-N'hésitez pas à me contacter à pablo.crotti@heig-vd.ch. Vous pouvez également me suivre sur les réseaux sociaux pour rester informé de mes derniers projets et aventures.
+N'hésitez pas à me contacter à pablo.crotti@heig-vd.ch. Vous pouvez également me suivre sur les réseaux sociaux pour rester informé de mes derniers projets et aventures. Plus d'infos sur mon parcours et mes projets sur [iviou.ch](https://iviou.ch).

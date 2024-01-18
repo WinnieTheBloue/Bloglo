@@ -1,8 +1,7 @@
 ---
 title: "🎨 Maîtriser l'API de Transitions de Vue pour des animations d'interface utilisateur éblouissantes"
-date: 2024-01-12
+date: 2024-01-14
 description: "Dans ce post passionnant, nous avons exploré en profondeur l'API de Transitions de Vue, en commençant par les bases et en mettant en lumière ses avantages. Le tutoriel pratique nous a permis de créer des animations UI simples et avancées tout en mettant l'accent sur l'importance de la gestion des performances dans le développement web. Vous découvrirez également des ressources supplémentaires et des références pour approfondir vos connaissances en animations UI avec Vue.js."
-image: "static/img/code.jpeg"
 showTableOfContents: true
 type: "post"
 tags:
@@ -33,7 +32,7 @@ Dans ces articles, l'API de Transitions de Vue est présentée comme un outil pu
 
 Dans cet article, nous allons fusionner, approfondir et explorer les enseignements de ces deux articles. Nous commencerons par comprendre les fondements de l'API de Transitions de Vue, puis nous plongerons dans des tutoriels pratiques, avant de nous inspirer de cas d'utilisation réels pour pousser nos compétences en animation UI à un niveau supérieur. Préparez-vous à donner vie à vos interfaces utilisateurs comme jamais auparavant !
 
-## 💡 Comprendre l'API de Transitions de Vue
+## 💡 Comprendre l'API de transitions de Vue
 
 ### Concepts de base
 

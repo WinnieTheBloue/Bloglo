@@ -1,8 +1,7 @@
 ---
 title: "🌐 Tendances actuelles en développement web : Votre guide ultime de veille technologique"
-date: 2024-01-12
+date: 2024-01-18
 description: "Découvrez le cœur battant du développement web avec notre compilation exclusive des meilleures ressources de veille technologique. Du front-end fascinant aux subtilités du back-end, en passant par les dernières innovations en SEO et performance web, ce guide est votre billet pour rester à l'avant-garde de la technologie. Que vous soyez développeur, étudiant, ou simplement un tech-enthousiaste, nos sélections vous offrent un panorama complet des tendances, outils, et discussions qui façonnent l'avenir du développement web."
-image: "static/img/code.jpeg"
 showTableOfContents: true
 type: "post"
 tags:
@@ -60,7 +59,7 @@ Nouveau dans le monde du code ? Pas de panique. OpenClassrooms est là pour tran
 ### [OpenClassrooms](https://openclassrooms.com/fr/)
 Propose des cours en ligne sur le développement web, le codage et les technologies informatiques. Idéal pour les débutants et ceux qui cherchent à se former continuellement.
 
-## 📰 Actualités et Tendances en Technologie
+## 📰 Actualités et tendances en technologie
 
 Pour les mordus de tech qui veulent capter les derniers buzz et innovations, voici votre dose quotidienne d'actualités. Ces sources vous tiendront informés des dernières évolutions technologiques, parfait pour briller en société !
 
@@ -70,7 +69,7 @@ Découvrez les dernières tendances et innovations dans le monde du développeme
 ### [Blog du Modérateur](https://www.blogdumoderateur.com/dossier/developpement/)
 Plongez au cœur des dernières nouveautés en développement web avec le Blog du Modérateur. Un site incontournable pour tous ceux qui souhaitent rester connectés aux tendances actuelles et aux meilleures pratiques du monde du développement. 
 
-## ⚡ Performance Web et Optimisation
+## ⚡ Performance web et optimisation
 
 L'optimisation web, c'est un peu comme la haute couture du développement web. Ces blogs vous fourniront les astuces pour que vos sites soient non seulement beaux, mais aussi ultra rapides et performants.
 

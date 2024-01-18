@@ -1,8 +1,7 @@
 ---
 title: '🎾 Expérimentation réalisée : Le développement éclair de "Squasher"'
-date: 2024-01-12
+date: 2024-01-17
 description: "Découvrez le cœur battant du développement web avec notre compilation exclusive des meilleures ressources de veille technologique. Du front-end fascinant aux subtilités du back-end, en passant par les dernières innovations en SEO et performance web, ce guide est votre billet pour rester à l'avant-garde de la technologie. Que vous soyez développeur, étudiant, ou simplement un tech-enthousiaste, nos sélections vous offrent un panorama complet des tendances, outils, et discussions qui façonnent l'avenir du développement web."
-image: "static/img/code.jpeg"
 showTableOfContents: true
 type: "post"
 tags:
