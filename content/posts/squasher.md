@@ -23,7 +23,18 @@ tags:
 
 Bonjour à tous ! Aujourd'hui, je vais partager avec vous une aventure palpitante dans le monde du développement rapide d'applications, où chaque seconde compte. Mon projet, nommé "Squasher", n'était pas seulement un défi de rapidité, mais aussi une démonstration de créativité et d'ingéniosité en temps réel. Alors, préparez-vous pour un récit captivant de cette course effrénée contre le temps!
 
-### Le Concept innovant de Squasher
+## 🎓 Sujet et objectifs de l'expérience
+
+### Sujet 
+Développement rapide d'une application de suivi et d'arbitrage pour les matchs de squash, nommée "Squasher".
+
+### Objectifs 
+
+1. Démontrer la faisabilité du développement d'une application fonctionnelle dans un délai extrêmement court.
+2. Mettre en avant la créativité et l'ingéniosité dans la résolution de problèmes sous pression.
+3. Introduire des fonctionnalités innovantes pour améliorer l'expérience de suivi des matchs de squash.
+
+## 🚀 Le Concept innovant de Squasher
 
 "Squasher" n'est pas une simple application, c'est une révolution dans le monde du squash. Conçue dans un élan spontané, elle se distingue par son minimalisme et son efficacité. Sa mission ? Transformer l'arbitrage et le suivi des matchs de squash en une expérience fluide et intuitive. Pour un aperçu rapide, jetez un œil au README, un petit bijou d'information concis et clair.
 
@@ -50,8 +61,26 @@ Le processus de développement a été une véritable course contre la montre. C
 ## 🥳 Le résultat : Une oeuvre en mouvement
 "Squasher" est née, fonctionnelle et dynamique, mais avec cette touche d'imperfection qui témoigne de son développement éclair. Certes, le code pourrait être plus clair, plus organisé, mais ce n'était pas l'objectif. L'essentiel était de créer, d'expérimenter, et de voir jusqu'où la rapidité pouvait nous mener.
 
+## 📈 Résultat attendu vs. résultat obtenu
+
+### Résultat attendu 
+Une application rapide et intuitive, avec des fonctionnalités de base pour le suivi et l'arbitrage des matchs de squash.
+
+### Résultat obtenu 
+"Squasher" a été réalisée avec succès, intégrant des fonctionnalités dynamiques comme l'enregistrement des joueurs avec attribution de couleurs, la gestion innovante du service, le suivi intuitif du changement de serveur, et un système d'arbitrage intégré. Bien que fonctionnelle, l'application présente des imperfections dues à la rapidité de son développement.
+
+## 📚 Point d'apprentissage
+
+**Rapidité vs. perfection :** Le développement rapide peut entraîner des imperfections, mais la capacité à créer et à fonctionner sous pression est précieuse.
+**Importance de l'UI/UX :** Même dans un contexte de rapidité, l'attention portée à l'interface utilisateur et à l'expérience utilisateur est cruciale.
+**Technologies Choisies :** L'utilisation de Vue 3 et Vite a permis une réactivité et une vitesse de développement élevées, démontrant l'importance du choix des bonnes technologies.
+
+## 💡 Idées/exemples d'application de la méthode
+
+**Hackathons :** Cette approche de développement rapide peut être particulièrement utile dans des contextes tels que les hackathons, où le temps est limité.
+**Prototypage rapide :** Pour tester des idées de produits et recueillir des retours rapidement.
+**Cours de programmation :** En tant qu'exercice pour enseigner la gestion du temps et les compétences en résolution de problèmes sous pression.
+
 ## 🎯 Conclusion
 
-"Squasher" est plus qu'une application, c'est un testament à la passion et à la rapidité dans le développement logiciel. C'est la preuve que parfois, il faut juste se lancer, coder avec cœur, et accepter que la perfection n'est pas toujours l'objectif. Après tout, comme on dit souvent, le voyage importe plus que la destination. "Squasher" est ce voyage, un périple rapide et exaltant dans le monde du développement logiciel.
-
-Pour plus d'infos concernant "Squasher", je vous invite à visiter le [repo git](https://github.com/WinnieTheBloue/squasher)
+L'expérimentation a été inspirée par une vidéo de [Micode](https://www.youtube.com/watch?v=SyamXfBVjrM&t=830s), proposant de développer une application le plus rapidement possible. "Squasher" est le résultat de cette aventure, une application conçue pour transformer l'arbitrage et le suivi des matchs de squash en une expérience fluide et intuitive. Malgré les imperfections dues à la rapidité du développement, "Squasher" représente une réussite en matière de créativité, de fonctionnalité et de démonstration de compétences techniques sous pression. Pour plus d'informations, visitez le [repo git](https://github.com/WinnieTheBloue/squasher)
