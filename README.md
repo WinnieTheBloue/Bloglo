@@ -1,8 +1,8 @@
-# Bloglo - My Personal Space 🚀
+# Bloglo - My personal space 🚀
 
 Welcome to my personal space, Bloglo. I'm thrilled to have you here! 👋
 
-## About Me 🧑‍💻
+## About me 🧑‍💻
 
 I am a web application development enthusiast and media engineering student. Bloglo is my space to share my knowledge, experiences, and thoughts on various topics that captivate me. Here, you'll find a variety of content ranging from web development to personal reflections.
 
@@ -12,7 +12,7 @@ I am a web application development enthusiast and media engineering student. Blo
 
 - [About](https://winniethebloue.github.io/bloglo/about/) : Learn more about me, my professional journey, my projects, and my life philosophy.
 
-## Follow Me 🚶‍♂️
+## Follow me 🚶‍♂️
 
 You can follow me on social media to stay updated on my latest projects and adventures:
 
@@ -21,7 +21,7 @@ You can follow me on social media to stay updated on my latest projects and adve
 
 Also, visit my website [iviou.ch](https://iviou.ch) to learn more about my journey and projects.
 
-## Contact Me 📧
+## Contact me 📧
 
 Feel free to reach out to me at my email address: pablo.crotti@heig-vd.ch. I'm always open to discussions and collaborations.
 
