@@ -27,7 +27,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "Moi"
     url = "/about/"
     weight = 2
     

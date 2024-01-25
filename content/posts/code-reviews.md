@@ -1,5 +1,5 @@
 ---
-title: "📘 Les Revues de Code - Un Pilier Méconnu du Développement Logiciel"
+title: "📘 Les revues de code - Un pilier méconnu du développement logiciel"
 date: 2024-01-15
 description: "Plongez dans l'univers souvent sous-estimé des revues de code avec ce post de blog détaillé. Inspiré par les insights de Vadim Kravcenko, cet article explore la profondeur et la complexité des revues de code, dévoilant leur rôle crucial non seulement dans l'assurance de la qualité du code, mais aussi dans le renforcement de l'apprentissage collaboratif et la culture du partage au sein des équipes de développement. De l'établissement de normes claires à la communication bienveillante, en passant par l'utilisation judicieuse d'outils automatisés, découvrez comment transformer les revues de code en une pratique enrichissante et constructive."
 showTableOfContents: true
